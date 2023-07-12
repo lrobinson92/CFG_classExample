@@ -1,0 +1,50 @@
+nav{
+    background-color: aqua;
+}
+
+ul {
+    display: list-style none;
+}
+
+<!-- links in list appearing side by side instead of below one another -->
+ul li{
+    display: inline;
+}
+
+body{
+    background-color: coral;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 100;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p{
+    color: rgb(84, 30, 210);
+    font: 16px;
+}
+
+.box1{
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+    padding: 20px 40px 20px 40px;
+    border: 5px solid black;
+    margin: 40px;
+}
+
+.box2{
+    background-color: rgba(243, 247, 51, 0.699);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 20px;
+
+    padding: 20px 40px 20px 40px;
+    border: 5px solid black;
+    margin: 40px;
+}
